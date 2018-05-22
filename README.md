@@ -1,6 +1,6 @@
 # hello-world
-my first repository
+my first repository.
 
-i love emacs, r, latex
+i love emacs, r, latex.
 
 i love music.
