@@ -8,7 +8,7 @@ Take either the blue or the red pill, but not both.
 Take the red pill.
 >>>>>>> feature
 
-If that is the case, then the above conflict resolution would not have been
+If this is the case, then the above conflict resolution would not have been
 correct, which demonstrates why seeing the original version alongside the
 conflicting versions can be useful.
 
