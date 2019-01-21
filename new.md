@@ -1,4 +1,4 @@
-﻿堤顶大路
+堤顶大路
 
 he above conflict might then have looked like this:
 
@@ -6,6 +6,9 @@ If this is the case, then the above conflict resolution would not have been
 correct, which demonstrates why seeing the original version alongside the
 conflicting versions can be useful.
 
+add something
+add something
+add something
 add something
 
 You can perform the conflict resolution completely by hand, but Emacs also
