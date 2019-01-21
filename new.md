@@ -12,6 +12,8 @@ If this is the case, then the above conflict resolution would not have been
 correct, which demonstrates why seeing the original version alongside the
 conflicting versions can be useful.
 
+add something
+
 You can perform the conflict resolution completely by hand, but Emacs also
 provides some packages that help in the process:  and
 Emerge ((emacs)Emerge). Magit does not provide its own tools for conflict
