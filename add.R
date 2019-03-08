@@ -17,7 +17,7 @@ JINLIN2
 Online add change
 
 
-时间当机立断连锁店
+时间当机新的立断店
 
 abcde
 
