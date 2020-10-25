@@ -9,4 +9,4 @@ i love movies.
 
 i am learning python.
 
-add some thing to master more and more
+add some thing to master more and less
